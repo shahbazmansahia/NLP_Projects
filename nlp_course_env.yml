@@ -1,0 +1,17 @@
+name: nlp_course2
+
+channels:
+  - defaults
+dependencies:
+
+  - tensorflow
+  - keras
+  - pip
+  - spacy
+  - numpy
+  - matplotlib
+  - pandas
+  - nltk
+  - scikit-learn
+  - jupyter
+prefix: C:\Users\Shahbaz\Anaconda3\envs\nlp_course
